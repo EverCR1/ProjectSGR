@@ -6,6 +6,8 @@ Proyecto para ADS1 y BDD2
 - Olsend Luna
 - Monica Caal
 
+## Antes de Subir Cambios Probar que la Aplicación Funcione Correctamente
+
 ## Comandos para Subir o Actualizar Cambios del Repositorio
 
 > Clonar Repositorio
